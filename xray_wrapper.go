@@ -2,8 +2,8 @@
 package libXray
 
 import (
-	"github.com/xtls/libxray/nodep"
-	"github.com/xtls/libxray/xray"
+	"github.com/amnezia-vpn/amnezia-libxray/nodep"
+	"github.com/amnezia-vpn/amnezia-libxray/xray"
 )
 
 // Read geo data and cut the codes we need.

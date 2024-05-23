@@ -3,12 +3,14 @@
 prepare_go() {
     rm -f go.mod
     rm -f go.sum
-    go mod init github.com/xtls/libxray
+    go mod init github.com/amnezia-vpn/amnezia-libxray
     go mod tidy
 }
 
 prepare_gomobile() {
     go install golang.org/x/mobile/cmd/gomobile@latest
+    go get golang.org/x/mobile/cmd/gobind
+    export PATH=~/go/bin:$PATH
     gomobile init
     go get -d golang.org/x/mobile/cmd/gomobile
 }

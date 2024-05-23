@@ -3,7 +3,7 @@ package xray
 import (
 	"fmt"
 
-	"github.com/xtls/libxray/nodep"
+	"github.com/amnezia-vpn/amnezia-libxray/nodep"
 )
 
 // Ping Xray config and find the delay and country code of its outbound.

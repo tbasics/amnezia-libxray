@@ -4,10 +4,10 @@ import (
 	"os"
 	"runtime/debug"
 
-	"github.com/xtls/libxray/nodep"
-	"github.com/xtls/xray-core/common/cmdarg"
-	"github.com/xtls/xray-core/core"
-	_ "github.com/xtls/xray-core/main/distro/all"
+	"github.com/amnezia-vpn/amnezia-libxray/nodep"
+	"github.com/amnezia-vpn/amnezia-xray-core/common/cmdarg"
+	"github.com/amnezia-vpn/amnezia-xray-core/core"
+	_ "github.com/amnezia-vpn/amnezia-xray-core/main/distro/all"
 )
 
 var (
