@@ -3,7 +3,7 @@ module github.com/amnezia-vpn/amnezia-libxray
 go 1.22.3
 
 require (
-	github.com/amnezia-vpn/amnezia-xray-core v1.8.11
+	github.com/amnezia-vpn/amnezia-xray-core v1.8.12
 	google.golang.org/grpc v1.64.0
 	google.golang.org/protobuf v1.34.1
 	gopkg.in/yaml.v3 v3.0.1
@@ -11,7 +11,7 @@ require (
 
 require (
 	github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0 // indirect
-	github.com/amnezia-vpn/amneziawg-go v0.2.10 // indirect
+	github.com/amnezia-vpn/amneziawg-go v0.2.11 // indirect
 	github.com/andybalholm/brotli v1.1.0 // indirect
 	github.com/cloudflare/circl v1.3.8 // indirect
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
