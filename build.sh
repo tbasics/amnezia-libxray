@@ -25,7 +25,10 @@ build_android() {
     rm -fr *.jar
     rm -fr *.aar
     prepare_gomobile
-    gomobile bind -target android -androidapi 28
+    rm -fr assets
+    mkdir -p assets/geo
+    mv dat/* assets/geo
+    gomobile bind -target android/arm64 -androidapi 24 -javapkg=org.amnezia.vpn.protocol.xray -o libxray.aar -ldflags="-w -s -buildid=" -trimpath
 }
 
 download_geo() {
