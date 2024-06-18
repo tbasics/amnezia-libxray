@@ -14,8 +14,8 @@ github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0 h1:Wo41lDOevRJS
 github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0/go.mod h1:FVGavL/QEBQDcBpr3fAojoK17xX5k9bicBphrOpP7uM=
 github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=
 github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
-github.com/amnezia-vpn/amnezia-tun2socks/v2 v2.5.3 h1:Cbcnl9WPNqYd6/F/BqoZNemtEJJgkWNT634WavZSFBQ=
-github.com/amnezia-vpn/amnezia-tun2socks/v2 v2.5.3/go.mod h1:loTzpXd3bSFbi6Z1bIVprfIkO0jvG44ZpuUk9BAcxUI=
+github.com/amnezia-vpn/amnezia-tun2socks/v2 v2.5.4 h1:ISTXvl7G0O+5fqm7QN5WEGPFEgm5kdujluPpkE9YRwA=
+github.com/amnezia-vpn/amnezia-tun2socks/v2 v2.5.4/go.mod h1:loTzpXd3bSFbi6Z1bIVprfIkO0jvG44ZpuUk9BAcxUI=
 github.com/amnezia-vpn/amnezia-xray-core v1.8.12 h1:Ri4VxSdVcRjQWPCTQexfzmclEFfZ1QuidYkPihAleY4=
 github.com/amnezia-vpn/amnezia-xray-core v1.8.12/go.mod h1:dTmyz2b0yAb2cncNUYPhaJqhQDgpf+OTkOX2yBYVRqE=
 github.com/amnezia-vpn/amneziawg-go v0.2.11 h1:JNGsxX4NIaYC/PpbUdwk23534HgS2SRMPgru6/K+364=

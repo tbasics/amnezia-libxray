@@ -3,7 +3,7 @@ module github.com/amnezia-vpn/amnezia-libxray
 go 1.22.3
 
 require (
-	github.com/amnezia-vpn/amnezia-tun2socks/v2 v2.5.3
+	github.com/amnezia-vpn/amnezia-tun2socks/v2 v2.5.4
 	github.com/amnezia-vpn/amnezia-xray-core v1.8.12
 	golang.org/x/mobile v0.0.0-20240520174638-fa72addaaa1b
 	golang.org/x/sys v0.20.0
