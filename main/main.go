@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	libXray "github.com/xtls/libxray"
-	"github.com/xtls/libxray/nodep"
+	libXray "github.com/amnezia-vpn/amnezia-libxray"
+	"github.com/amnezia-vpn/amnezia-libxray/nodep"
 )
 
 func checkDir(dir string) error {

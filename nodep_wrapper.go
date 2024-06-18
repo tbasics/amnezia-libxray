@@ -1,7 +1,7 @@
 package libXray
 
 import (
-	"github.com/xtls/libxray/nodep"
+	"github.com/amnezia-vpn/amnezia-libxray/nodep"
 )
 
 // Wrapper of nodep.GetFreePorts

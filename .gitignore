@@ -18,6 +18,7 @@
 *.jar
 *.aar
 
+assets/
 dat/
 sub/
 test/

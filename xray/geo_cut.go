@@ -7,8 +7,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/xtls/libxray/nodep"
-	"github.com/xtls/xray-core/app/router"
+	"github.com/amnezia-vpn/amnezia-libxray/nodep"
+	"github.com/amnezia-vpn/amnezia-xray-core/app/router"
 	"google.golang.org/protobuf/proto"
 )
 
